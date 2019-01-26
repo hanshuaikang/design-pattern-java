@@ -401,15 +401,15 @@ I can't fly
 
 Github地址：
 
-[design-pattern-java]: https://github.com/hanshuaikang/design-pattern-java
+Github：https://github.com/hanshuaikang/design-pattern-java
 
 
 
 参考资料：
 
-[菜鸟教程]: http://www.runoob.com/design-pattern/strategy-pattern.html
+菜鸟教程:http://www.runoob.com/design-pattern/strategy-pattern.html
 
- Head frist of 设计模式
+Head frist of 设计模式
 
 
 
