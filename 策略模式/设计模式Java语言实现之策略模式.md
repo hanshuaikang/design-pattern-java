@@ -136,12 +136,12 @@ public abstract class Duck {
 	}
  
 	
-	//定义get方法，可以动态的设定鸭子飞行的行为
+	//定义set方法，可以动态的设定鸭子飞行的行为
 	public void setFlyBehavior (FlyBehavior fb) {
 		flyBehavior = fb;
 	}
 	
-	//定义get方法，可以动态的设定鸭子飞行的行为
+	//定义set方法，可以动态的设定鸭子飞行的行为
 	public void setQuackBehavior(QuackBehavior qb) {
 		quackBehavior = qb;
 	}
